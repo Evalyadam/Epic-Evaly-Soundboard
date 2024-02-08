@@ -1,0 +1,35 @@
+body{
+background-color: rgb(23, 23, 23);
+font-family: sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, p, pre, nav{
+    color: white;
+}
+
+hr{
+    height: 25px;
+    margin-top: 0%;
+}
+
+#Center-Text{
+    text-align: center;
+}
+
+
+button{
+    display: block;
+    margin: auto;
+    background-color: cadetblue;
+    color:  white;
+}
+
+
+#memes{
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(182,42,42,1) 35%, rgba(0,0,0,1) 100%);
+}
+
+
+#sfx{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,120,140,1) 35%, rgba(4,4,39,1) 100%);
+}
