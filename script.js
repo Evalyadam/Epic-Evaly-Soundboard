@@ -62,4 +62,33 @@ function HEE_HEE() {
     var audio = new Audio("Sounds/squeak.mp3");
     audio.play();
   }
-  
+
+function MARIO_WILL_TAKE_YOUR_LIVER() {
+  var audio = new Audio("Sounds/MARIO-WILL-TAKE-YOUR-LIVER.mp3");
+  audio.play();
+}
+
+function ykyk(){
+  var audio = new Audio("Sounds/ykyk.mp3");
+  audio.play();
+}
+
+function iatefivehomlespeople(){
+  var audio = new Audio("Sounds/I-Ate-Five-Homeles-People.mp3");
+  audio.play();
+}
+
+function Eminem_X_Lethal_Comapny(){
+  var audio=new Audio("Sounds/Eminem-X-Lethal-Company.mp3");
+  audio.play();
+}
+
+function Bleep(){
+  var audio=new Audio("Sounds/bleepity-bloop.mp3");
+  audio.play();
+}
+
+function Applause() {
+  var audio=new Audio("Sounds/Appluse.mp3");
+  audio.play();
+}
