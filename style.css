@@ -33,3 +33,14 @@ button{
 #sfx{
     background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(88,120,140,1) 35%, rgba(4,4,39,1) 100%);
 }
+
+.VoiceMod-Banner{
+    background-color: rgb(18, 17, 17);
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+    font-size: 14px;
+    line-height: 24px;
+    letter-spacing: normal;
+}
